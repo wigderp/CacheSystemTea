@@ -1,0 +1,20 @@
+{
+  "name": "cachesystemtea",
+  "version": "1.0.0", 
+  "description": "Develop a caching module to store and retrieve data efficiently, supporting various storage backends like memory, Redis, or filesystem",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wigderp/cachesystemtea"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
